@@ -1,6 +1,6 @@
 {
   "books" : [{
-      "id": 1
+      "id": 1,
       "title": "Learning Java",
       "sort-title": "Learning Java",
       "isbn": "1565927184",
