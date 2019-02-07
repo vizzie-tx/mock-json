@@ -1,0 +1,20 @@
+{
+  "books" : [{
+      "id": 1
+      "title": "Learning Java",
+      "sort-title": "Learning Java",
+      "isbn": "1565927184",
+      "authors": [1, 2]
+    }],
+    "authors": [{
+        "id": 1,
+        "name": "Patrick Niemeyer",
+        "sort-name" : "Niemeyer, Patrick"
+      },
+      {
+        "id": 2,
+        "name": "Jonathan Knudsen",
+        "sort-name": "Knudsen, Jonathan"
+      }]
+}
+    
